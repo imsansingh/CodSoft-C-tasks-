@@ -1,2 +1,0 @@
-Hello everyone, I am doing c++ internship with CodSoft.
-sds fdgdf.
